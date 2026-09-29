@@ -1,0 +1,11 @@
+# Nmap 7.99 scan initiated Tue Sep 29 10:00:49 2026 as: /usr/lib/nmap/nmap -sV -oN before.txt 192.168.112.128
+Nmap scan report for 192.168.112.128
+Host is up (0.00046s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE VERSION
+5985/tcp open  http    Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+MAC Address: 00:0C:29:CD:79:C4 (VMware)
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Sep 29 10:01:13 2026 -- 1 IP address (1 host up) scanned in 24.32 seconds
