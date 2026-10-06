@@ -1,6 +1,3 @@
-À đúng rồi 😭 Nếu **Tình huống 3 đã làm xong và PASS hết** thì README sửa lại như này. Phần lỗi Internet DMZ bỏ luôn, không ghi FAIL nữa.
-
-```md
 # LAB 5 - XÂY DỰNG VÀ CẤU HÌNH FIREWALL PFSENSE
 
 ## 1. Thông tin sinh viên
